@@ -15,12 +15,12 @@ var MAP_POINTS = [
   {x:90,y:14,k:"Wherever we go next",t:"288 km today — no distance tomorrow"},
 ];
 var EGG_NOTES = [
-  "Hey Cutu ❤️",
+  "Hey Love ❤️",
   "Potato, you're my favorite notification.",
   "Rasgulla, I still get excited when you text me.",
   "Sunshine, thank you for making ordinary days beautiful.",
   "My Sukoon, life became softer after you.",
-  "Kucchu Pucchu, yes this website has secret messages because I'm dramatic.",
+  "Kucchu Pucchu, yes this website has secret messages because I'm dramatic(huihuihui).",
 ];
 var GIFTS = [
   {emoji:"🖼️", name:"Mahadev & His Painting", why:"Because some things are sacred — and so are you."},
